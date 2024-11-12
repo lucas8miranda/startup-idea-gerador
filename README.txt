@@ -42,6 +42,8 @@ Bibliotecas Python necessárias:
 - Flask-CORS
 - OpenAI
 - python-dotenv
+- os
+- time
 
 Instale as dependências:
 
